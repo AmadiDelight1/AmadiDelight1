@@ -19,7 +19,7 @@ Even when disagreement arise, I have a non-technical skill of navigating delicat
 📌Approach:
 I combine my sales knowledge and technical expertise to define problems and ask the right questions that uncover growth driving insights. Beyond discovery, I also help you implement the proposed changes and monitor the outcome.
 
-📌 Tools I use:
+## TOOLS I USE:
 ----
 Data Wrangling: Excel, Python and SQL
 
