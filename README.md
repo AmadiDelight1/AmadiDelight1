@@ -1,31 +1,48 @@
 ## ABOUT ME
-Hi,
-I'm Delight Amadi, a Sales and Business Intelligence Analyst and Data Entry Specialist.
-
-I watched my business crumble to zero, not because of hard work, but because I  lacked the right business insights to sustain and grow it. That turning point pushed me to transition from Biochemistry to tech and mastered data analysis without a coding background.
-
 ----
-## WHAT I DO:
-----
-📌As an Analyst: 
-I help you boost your sales and profit by giving clear meaning to your raw data. Recently, I help an Organization boost their sales by helping them to implement SOP into the system. This increase profit margin from 1% to 34%.
+There is a moment every analyst knows.
 
-📌As a Data Entry Specialist:
-I help relieve your stress and save your time through reliable and accurate data entry so that you can focus on growth without burnout. As a former Administrative Officer at the National Assembly, where I contributed to national efficiency by ensuring accuracy and integrity in data entry you can trust me with your data.
+You finish a dashboard. It is clean. The numbers are right. The colours are on-brand.
 
-📌Diplomacy:
-Even when disagreement arise, I have a non-technical skill of navigating delicate situations related to data analysis and maintaining positive relationship with you because your business growth is my concern.
+And then your stakeholder looks at it and says: "So what does this mean for us?"
 
-📌Approach:
-I combine my sales knowledge and technical expertise to define problems and ask the right questions that uncover growth driving insights. Beyond discovery, I also help you implement the proposed changes and monitor the outcome.
+That question is why I do what I do.
+
+My name is Delight  Amadi, a Business Intelligence Analyst who bridges the gap between complex data and the decisions that actually move a business forward.
+
+📍I have delivered BI reports for arts and culture institutions.
+
+📍Supported data operations for job platforms connecting Nigerian talent to UK opportunities.
+
+📍Trained 13+ professionals on how to use Power BI to solve real business problems.
+
+My background is unusual. I studied Biochemistry which means I think in systems, variables and cause-and-effect chains. 
+
+That scientific foundation makes me a better analyst, because I don't just clean data. I ask what the data is trying to tell us.
+
+Where I work best:
+
+📍Startups scaling from gut-feel decisions to data-driven ones.
+
+📍Teams that need their data to speak to non-technical decision makers.
+
+📍Projects where the insight matters as much as the spreadsheet.
+
+📍Organisations that value clarity, communication and business impact not just technical output
+
 
 ## TOOLS I USE:
 ----
-Data Wrangling: Excel, Python and SQL
+Data Wrangling: Excel •  SQL • Python • Google Sheets.
 
-Data Visualization: Power Bi and Excel
+Data Visualization: Power BI • Excel • Google Sheets.
 
 Automation: Dashboard Scheduling.
 
 
-Whether you are a start up, agency or entrepreneur, I will foster a data driven culture that will boost your profit and sales.
+If your business is sitting on data it does not know how to use or if you are building a team that needs an analyst who can think, communicate and deliver let us talk.
+
+Open to remote opportunities in Nigeria, UK, Canada and the United States.
+
+Nobledelight7@gmail.com
+
