@@ -1,15 +1,10 @@
-##ABOUT ME
+ABOUT ME
 
 I once built a business that failed.
-
 I owned a spa business, and as an early-stage founder, I was trying to figure everything out myself.
-
 I didn't know what my numbers were really telling me.
-
 I didn't know where I was losing money.
-
 I didn't know which decisions would drive revenue.
-
 I didn't know how to manage the business effectively.
 
 Eventually, I had to close the business.
