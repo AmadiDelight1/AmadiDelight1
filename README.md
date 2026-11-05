@@ -1,48 +1,72 @@
-## ABOUT ME
-----
-There is a moment every analyst knows.
+##ABOUT ME
 
-You finish a dashboard. It is clean. The numbers are right. The colours are on-brand.
+I once built a business that failed.
 
-And then your stakeholder looks at it and says: "So what does this mean for us?"
+I owned a spa business, and as an early-stage founder, I was trying to figure everything out myself.
 
-That question is why I do what I do.
+I didn't know what my numbers were really telling me.
 
-My name is Delight  Amadi, a Business Intelligence Analyst who bridges the gap between complex data and the decisions that actually move a business forward.
+I didn't know where I was losing money.
 
-📍I have delivered BI reports for arts and culture institutions.
+I didn't know which decisions would drive revenue.
 
-📍Supported data operations for job platforms connecting Nigerian talent to UK opportunities.
+I didn't know how to manage the business effectively.
 
-📍Trained 13+ professionals on how to use Power BI to solve real business problems.
+Eventually, I had to close the business.
 
-My background is unusual. I studied Biochemistry which means I think in systems, variables and cause-and-effect chains. 
+That experience taught me something I will never forget:
 
-That scientific foundation makes me a better analyst, because I don't just clean data. I ask what the data is trying to tell us.
-
-Where I work best:
-
-📍Startups scaling from gut-feel decisions to data-driven ones.
-
-📍Teams that need their data to speak to non-technical decision makers.
-
-📍Projects where the insight matters as much as the spreadsheet.
-
-📍Organisations that value clarity, communication and business impact not just technical output
+A founder can work incredibly hard and still lose a business when they don't have clarity about what is happening inside it.
 
 
-## TOOLS I USE:
-----
-Data Wrangling: Excel •  SQL • Python • Google Sheets.
 
-Data Visualization: Power BI • Excel • Google Sheets.
-
-Automation: Dashboard Scheduling.
+Today, I help early-stage startup founders turn their business data into clear insights so they can identify problems, uncover opportunities and make better decisions.
 
 
-If your business is sitting on data it does not know how to use or if you are building a team that needs an analyst who can think, communicate and deliver let us talk.
 
-Open to remote opportunities in Nigeria, UK, Canada and the United States.
+I also founded Databeauty Tribe, a community that has impacted 300+ data professionals through practical learning, visibility, collaboration and career development.
 
-Nobledelight7@gmail.com
+
+
+Here is the proof:
+
+
+
+📍₦200M+ in revenue generated: Helped a company generate over ₦200M in revenue through data-driven insights.
+
+
+
+📍1% → 34% profit margin: Helped improve profit margins through BI reporting and analysis.
+
+
+
+📍35+ professionals trained: Trained professionals in Power BI using real-world business cases.
+
+
+
+I help with:
+
+
+
+Business Intelligence & Data Analytics
+
+Startup Business Consulting & Analysis
+
+Power BI Dashboard Development
+
+Power BI & Data Analytics Training
+
+
+
+Power BI • SQL • Excel • Python • AI • Databricks 
+
+
+
+If you're an early-stage founder and you have data but don't know what it's telling you, let's uncover it.
+
+
+
+📩 Nobledelight7@gmail.com
+
+
 
